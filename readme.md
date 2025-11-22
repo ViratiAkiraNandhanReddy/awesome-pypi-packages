@@ -3,17 +3,16 @@
 A curated collection of high-quality, actively maintained Python packages published on PyPI.
 
 ## Contents
-* [Awesome PyPI Packages](https://github.com/ViratiAkiraNandhanReddy/awesome-pypi-packages)
-    * [Web Development](#web-development)
-    * [Data Science](#data-science)
-    * [Machine Learning](#machine-learning)
-    * [Utilities](#utilities)
-    * [Security](#security)
-    * [CLI Tools](#cli-tools)
-    * [Testing](#testing)
-    * [Text Processing](#text-processing)
-    * [Networking](#networking)
-    * [Media](#media)
+* [Web Development](#web-development)
+* [Data Science](#data-science)
+* [Machine Learning](#machine-learning)
+* [Utilities](#utilities)
+* [Security](#security)
+* [CLI Tools](#cli-tools)
+* [Testing](#testing)
+* [Text Processing](#text-processing)
+* [Networking](#networking)
+* [Media](#media)
 
 ---
 
@@ -31,7 +30,7 @@ A curated collection of high-quality, actively maintained Python packages publis
 
 ## Machine Learning
 
-* [Scikit-learn](https://github.com/scikit-learn/scikit-learn#readme) - Tools for classical machine learning algorithms.
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn#readme) - Tools for classical machine learning algorithms.
 * [TensorFlow](https://github.com/tensorflow/tensorflow#readme) - Platform for building and deploying machine learning models.
 * [PyTorch](https://github.com/pytorch/pytorch#readme) - Deep learning framework based on dynamic computation graphs.
 
