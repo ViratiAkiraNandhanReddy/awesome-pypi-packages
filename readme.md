@@ -13,6 +13,7 @@ A curated collection of high-quality, actively maintained Python packages publis
 * [Text Processing](#text-processing)
 * [Networking](#networking)
 * [Media](#media)
+* [Game Development](#game-development)
 
 ---
 
@@ -75,6 +76,10 @@ A curated collection of high-quality, actively maintained Python packages publis
 * [Pydub](https://github.com/jiaaro/pydub#readme) - Tools for audio manipulation.
 * [MoviePy](https://github.com/Zulko/moviepy#readme) - Library for video editing.
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition#readme) - Tools for performing speech-to-text.
+
+## Game Development
+
+* [pygame](https://github.com/pygame/pygame#readme) - A reliable 2D game development and multimedia framework for Python.
 
 ---
 
