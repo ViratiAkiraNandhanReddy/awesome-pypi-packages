@@ -79,7 +79,7 @@ A curated collection of high-quality, actively maintained Python packages publis
 
 ## Game Development
 
-* [pygame](https://github.com/pygame/pygame) - A reliable 2D game development and multimedia framework for Python.
+* [pygame](https://github.com/pygame/pygame#readme) - A reliable 2D game development and multimedia framework for Python.
 
 ---
 
